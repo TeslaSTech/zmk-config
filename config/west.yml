@@ -6,7 +6,7 @@ manifest:
       url-base: https://github.com/petejohanson
   projects:
     - name: zmk
-      remote: zmkfirmware
+      remote: petejohanson
       revision: core/ble-split-central-notify-main-thread
       import: app/west.yml
   self:
